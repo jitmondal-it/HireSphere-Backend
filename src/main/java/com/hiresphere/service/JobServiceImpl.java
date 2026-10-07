@@ -1,6 +1,5 @@
 package com.hiresphere.service;
 
-import java.security.cert.X509Certificate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;

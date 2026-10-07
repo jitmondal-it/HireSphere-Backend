@@ -7,7 +7,7 @@ import com.hiresphere.dto.Application;
 import com.hiresphere.dto.JobDTO;
 import com.hiresphere.exception.JobPortalException;
 
-import jakarta.validation.Valid;
+
 
 public interface JobService {
 
